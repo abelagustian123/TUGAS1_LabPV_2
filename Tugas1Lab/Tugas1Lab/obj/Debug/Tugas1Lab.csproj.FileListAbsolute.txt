@@ -1,0 +1,7 @@
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\obj\Debug\Tugas1Lab.csprojResolveAssemblyReference.cache
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\obj\Debug\Tugas1Lab.MainForm.resources
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\obj\Debug\Tugas1Lab.csproj.GenerateResource.Cache
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\bin\Debug\Tugas1Lab.exe
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\bin\Debug\Tugas1Lab.pdb
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\obj\Debug\Tugas1Lab.exe
+D:\Sem 4\Pemrograman Visual\Lab\Tugas1\Tugas1Lab\Tugas1Lab\obj\Debug\Tugas1Lab.pdb
